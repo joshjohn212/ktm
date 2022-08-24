@@ -1,0 +1,239 @@
+.naked{
+    height:900px;
+   
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    position: absolute;
+    top: 0px;
+    height: 100px;
+    left: 1237px;
+}
+#loc{
+ position: absolute;
+ font-size: 30px;
+ color: coral;
+    top: 40px;
+    height: 100px;
+    left: 1100px;
+}
+#glo{
+    position: absolute;
+ font-size: 30px;
+ color: coral;
+    top: 40px;
+    height: 100px;
+    left: 1150px;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+ font-size: 20px;
+gap: 2rem;
+    top: 40px;
+    height: 100px;
+    left: 50px;
+    font-style:sans-serif;
+    text-decoration: dotted;
+   
+}
+.txt{
+    position: absolute;
+    font-size: 40px;
+    left: 400px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    top: 350px;
+    height: 50px;
+}
+#txt1{
+    position: absolute;
+    font-size: 30px;
+    left: 200px;
+    color:rgb(255, 255, 255);
+    top: -30px;
+    font-family: 'Lato', sans-serif;
+
+
+}
+#ban
+    {
+    height: 379px;
+   margin-left: 0px;
+    }
+#img1{
+    position: relative;
+    height: 450px;
+   margin-left: 1%;
+   width: 645px;
+}
+#img2{
+    position: relative;
+    top:-454px;
+    height: 450px;
+   margin-left: 686px;
+   width: 650px;
+}
+#txta{
+    position: absolute;
+    font-size: 60px;
+    left: 180px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    top: 1480px;
+    height: 500px;
+
+}
+#txtb{
+    position: absolute;
+    font-size: 60px;
+    left: 800px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    top: 1480px;
+    height: 500px;
+
+}
+#img3{
+    position:relative;
+    height: 32%;
+    width: 32%;
+   margin-left: 1%;
+   
+}
+#img4{
+    position: relative;
+    height: 32%;
+    width:32% ;
+   margin-left: 1%;
+   
+}
+#img5{
+    position: relative;
+    height: 32%;
+    width: 32%;
+   margin-left: 1%;
+   
+}
+.hei{
+    position: relative;
+    margin-top: -33%;
+}
+#h1{
+    position: absolute;
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 1%;
+}
+#h2{
+    position: absolute;
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 34%;
+}
+#h3{
+    position: absolute;
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 67.5%;
+}
+#p1{
+    position: absolute;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 1%;
+    margin-top: 150px;
+}#p2{
+    position: absolute;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 34%;
+    margin-top: 150px;
+}
+#p3{
+    position: absolute;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 67.5%;
+    margin-top: 150px;
+}
+#fin{
+    position:relative;
+    margin-top: 270px;
+    height: 100%;
+    width: 100%;
+}
+#lastp{
+    font-weight: bold;
+    font-size: 30px;
+ margin-left: 33.5%;
+}
+.th{
+    gap: 5rem;
+    display: flex;
+    list-style-type: none;
+    font-size: 23px;
+    font-style: oblique;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.li1{
+    font-size: 18px;
+    font-style: oblique;
+    background-color: black;
+    color: aliceblue;
+    list-style-type: none;
+}
+.li2{
+    position: absolute;
+    list-style-type: none;
+    margin-left: 23%;
+    margin-top: -212px;
+    color: rgb(255, 255, 255);
+}
+.li3{
+    position: absolute;
+    list-style-type: none;
+    margin-left: 44.8%;
+    margin-top: -212px;
+    color: rgb(255, 255, 255);
+}
+.li4{
+    position: absolute;
+    list-style-type: none;
+    margin-left: 63.3%;
+    margin-top: -212px;
+    color: rgb(255, 255, 255);
+}
+.icons{
+    position: absolute;
+    margin-left: 80.6%;
+    margin-top: -212px;
+    color: aliceblue;
+    display: flex;
+    gap: 1rem;
+}
+.img{
+  height: 100%; 
+  width: 100%; 
+}
+.menu1{
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+ font-size: 20px;
+gap: 2rem;
+    top: 40px;
+    height: 100px;
+    left: 50px;
+    font-style:sans-serif;
+    color: black;
+}
+a {
+    color: #f8fbff;
+  }
